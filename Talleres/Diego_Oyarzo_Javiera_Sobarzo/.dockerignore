@@ -1,0 +1,39 @@
+# Ignorar archivos de control de versiones
+.git
+.gitignore
+
+# Ignorar archivos temporales de VS Code
+.vscode/
+
+# Ignorar cachés y compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Ignorar entornos virtuales
+venv/
+.env/
+
+# Ignorar archivos de dependencias locales
+*.egg-info/
+.eggs/
+
+# Ignorar archivos de Docker
+.dockerignore
+
+# Ignorar archivos de sistema
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ignorar carpetas de pruebas (si no quieres incluirlas en la imagen)
+tests/
+
+# Evitar duplicados pesados
+.venv/
+.pytest_cache/
+node_modules/
