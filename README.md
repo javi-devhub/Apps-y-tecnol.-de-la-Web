@@ -5,7 +5,6 @@ Este repositorio contiene el proyecto de encriptador y desencriptador desarrolla
 ## Estado del proyecto
 
 ![CI](https://github.com/javi-devhub/Apps-y-tecnol.-de-la-Web/actions/workflows/ci.yml/badge.svg)
-![Lint](https://github.com/javi-devhub/Apps-y-tecnol.-de-la-Web/actions/workflows/ci.yml/badge.svg?event=lint)
 
 ## Contenido
 - `encriptador.py`
